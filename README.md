@@ -36,7 +36,6 @@
 ---
 
 ## 🎯 Goals
-- 🎓 Admission to a top boarding school in Dubai with scholarship  
 - 🚀 Build an **AI + Entrepreneurship** startup and scale internationally  
 
 ---
@@ -46,3 +45,4 @@
 - **Telegram:** [@armandamirchilouwork](https://t.me/+989102160939)
 - **LinkedIn:** [arman-damirchilou](https://www.linkedin.com/in/arman-damirchilou-a98322369/)  
 - **X (Twitter):** [ArmanDamir5923](https://x.com/ArmanDamir5923)
+
