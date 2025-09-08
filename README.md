@@ -80,7 +80,7 @@ I have participated in **multiple competitions and Olympiads**, including:
 
 ## 📫 Contact Me
 - **Email:** armandamirchilou@gmail.com  
-- **Telegram:** [@armandamirchilouwork](https://t.me/armandamirchilouwork)  
+- **Telegram:** [@armandamirchilouwork](https://t.me/armandamirchilou)  
 - **LinkedIn:** [arman-damirchilou](https://www.linkedin.com/in/arman-damirchilou)  
 - **X (Twitter):** [ArmanDamir5923](https://x.com/ArmanDamir5923)  
 
@@ -94,3 +94,4 @@ Check out my pinned repositories and get in touch if you want to **build amazing
 
 ## 🔑 SEO & Discoverability Keywords
 Teen AI Innovator | ML Engineer | Deep Learning | Python Developer | Data Science | AI Projects | Game Development | Computer Vision | NLP | Reinforcement Learning | Open-Source Contributor
+
