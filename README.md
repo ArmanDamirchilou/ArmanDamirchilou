@@ -7,7 +7,7 @@
 ---
 
 ## 🎓 About Me
-I'm a 15-year-old high school student from Tehran, Iran, passionate about **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Game Development**.  
+I'm a 16-year-old high school student from Tehran, Iran, passionate about **Artificial Intelligence, Machine Learning, Data Science, Full-Stack Development, and Game Development**.  
 I love creating innovative projects that solve real-world problems, building AI-powered applications, and exploring interactive game design.  
 
 I have participated in **multiple competitions and Olympiads**, including:  
