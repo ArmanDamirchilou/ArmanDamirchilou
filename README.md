@@ -12,7 +12,6 @@ I love creating innovative projects that solve real-world problems, building AI-
 
 I have participated in **multiple competitions and Olympiads**, including:  
 - 🏆 Computer Olympiad (Top ranks in exams since 9th grade)  
-- 🤖 National AI Olympiad (2025 participant)  
 
 ---
 
