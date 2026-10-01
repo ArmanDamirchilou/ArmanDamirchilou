@@ -1,8 +1,10 @@
-# Hi, I'm Armandamirchilou 👋
+# Hi, I'm Arman Damirchilou (آرمان دمیرچیلو) 👋
 
 ![Profile Views](https://img.shields.io/badge/Profile-Active-brightgreen)
 ![GitHub Followers](https://img.shields.io/github/followers/Armandamirchilou?label=Followers&style=social)
 ![Top Language](https://img.shields.io/github/languages/top/Armandamirchilou?color=blue)
+
+🌐 **Website:** [armandamirchilou.github.io](https://armandamirchilou.github.io/) &nbsp;·&nbsp; **فارسی:** [armandamirchilou.github.io/fa](https://armandamirchilou.github.io/fa/) &nbsp;·&nbsp; **Talk to my AI twin:** [armandamirchilou.github.io/twin](https://armandamirchilou.github.io/twin/)
 
 ---
 
@@ -78,9 +80,10 @@ I have participated in **multiple competitions and Olympiads**, including:
 ---
 
 ## 📫 Contact Me
+- **Website:** [armandamirchilou.github.io](https://armandamirchilou.github.io/)
 - **Email:** armandamirchilou@gmail.com  
 - **Telegram:** [@armandamirchilouwork](https://t.me/armandamirchilou)  
-- **LinkedIn:** [arman-damirchilou](https://www.linkedin.com/in/arman-damirchilou)  
+- **LinkedIn:** [Arman Damirchilou](https://www.linkedin.com/in/arman-damirchilou-a98322369/)  
 - **X (Twitter):** [ArmanDamir5923](https://x.com/ArmanDamir5923)  
 
 ---
