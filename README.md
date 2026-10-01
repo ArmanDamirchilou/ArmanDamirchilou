@@ -4,7 +4,7 @@
 ![GitHub Followers](https://img.shields.io/github/followers/Armandamirchilou?label=Followers&style=social)
 ![Top Language](https://img.shields.io/github/languages/top/Armandamirchilou?color=blue)
 
-🌐 **Website:** [armandamirchilou.github.io](https://armandamirchilou.github.io/) &nbsp;·&nbsp; **فارسی:** [armandamirchilou.github.io/fa](https://armandamirchilou.github.io/fa/) &nbsp;·&nbsp; **Talk to my AI twin:** [armandamirchilou.github.io/twin](https://armandamirchilou.github.io/twin/)
+🌐 **Website:** [armandamirchilou.github.io](https://armandamirchilou.github.io/) &nbsp;·&nbsp; **Talk to my AI twin:** [armandamirchilou.github.io/twin](https://armandamirchilou.github.io/twin/)
 
 ---
 
